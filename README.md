@@ -1,4 +1,4 @@
-# WeekWise ⚡
+#  ⚡WeekWise
 
 WeekWise is a minimalist, local-first academic workspace designed to help students track tasks, manage lecture retention, and structure a 15-week semester timeline efficiently. Built with a premium, high-fidelity dark interface inspired by modern developer IDEs and SaaS tools.
 
