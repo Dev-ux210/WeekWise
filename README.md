@@ -23,8 +23,3 @@ WeekWise is a minimalist, local-first academic workspace designed to help studen
 - **Styling:** Tailwind CSS
 - **Database Layer:** Dexie.js (Wrapper for browser IndexedDB)
 - **Icons / Theme:** Zinc / Emerald / Amber palette (Custom Dark UI)
-
-## 📦 Getting Started
-
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed on your local environment.
