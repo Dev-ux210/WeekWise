@@ -18,7 +18,7 @@ WeekWise is a minimalist, local-first academic workspace designed to help studen
 
 ## 🛠️ Tech Stack
 
-- **Framework:** React 18 (TypeScript)
+- **Framework:** (TypeScript)
 - **Build Tool:** Vite
 - **Styling:** Tailwind CSS
 - **Database Layer:** Dexie.js (Wrapper for browser IndexedDB)
